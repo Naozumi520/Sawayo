@@ -23,5 +23,6 @@ module.exports.run = async (client, message, args) => {
 
 module.exports.config = {
     name: "avatar",
-    aliases: ["avt"]
+    aliases: ["avt"],
+    description: 'Display someone\'s avatar.'
 }

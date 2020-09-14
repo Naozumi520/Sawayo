@@ -8,5 +8,6 @@ module.exports.run = async (client, message, args) => {
 
 module.exports.config = {
     name: "ping",
-    aliases: ["latency"]
+    aliases: ["latency"],
+    description: 'Do ping pong test and show API Latency.'
 }
