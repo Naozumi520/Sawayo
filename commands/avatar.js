@@ -7,7 +7,7 @@ module.exports.run = async (client, message, args) => {
     if (!member) {
         return message.reply('Please mention a user!');
     }
-    let embed = new Discord.MessageEmbed()
+    let embed = new     
     .addField(`**${member.user.tag}**`, `[URL](${member.user.avatarURL({size: 1024})})`)
     .setImage(member.user.avatarURL({size: 1024}))
     .setColor('#2f3136')
