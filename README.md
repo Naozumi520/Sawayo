@@ -15,8 +15,8 @@ $ npm install
 Before starting the bot, you need to create a file called "config.json" under the root directory of the project.
 ## Sample config.conf
 	{
-         "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7X", //Of course, this is not a real token.
-         "prefix" : "s!"  //The bot prefix
+         "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7XOf course, this is not a real token.", 
+         "prefix" : "s!" 
 	}
 Once the preparation is done, the project directory should look like the following:
 ```
