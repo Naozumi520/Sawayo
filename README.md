@@ -4,7 +4,7 @@ Sawayo is a discord bot for osu!
 ## Set-up
 Clone the git project:
 ```bash
-$ git clone https://github.com/Rubikplayer/flame-fitting.git
+$ git clone https://github.com/Naozumi520/Sawayo.git
 ```
 This project uses node and npm. Use the following command if you don't have them locally installed.
 ```bash
