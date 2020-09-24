@@ -15,7 +15,7 @@ Before starting the bot, you need to create a file called "config.json".
 
 # sample config.conf
 	{
-    "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7X", //Of course, this is not a real token.Generate your token and paste here.
+    "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7X", //Of course, this is not a real token.Paste your token here.
     "prefix" : "s!"  //The bot prefix
 	}
 
