@@ -1,5 +1,5 @@
 # Sawayo
-Sawayo is a discord bot for osu!
+Sawayo, a discord bot for osu!
 
 ## Set-up
 Clone the git project:
