@@ -42,6 +42,6 @@ $ node index
 ```
 
 ## Contributors
-[![](https://github.com/JammieLannie.png?size=50) JammieLannie](https://github.com/JammieLannie)
+[![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)
 
 ![picture](files/images/Sawayo_banner.png)
