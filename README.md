@@ -42,6 +42,6 @@ $ node index
 ```
 
 ## Contributors
-This repository was constructed by [cool.xaml](https://github.com/JammieLannie).
+[![cool.xaml](https://github.com/JammieLannie.png?size=50)](https://github.com/JammieLannie)
 
 ![picture](files/images/Sawayo_banner.png)
