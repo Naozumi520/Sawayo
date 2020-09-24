@@ -12,7 +12,7 @@ This project uses node and npm. Use the following command if you don't have them
 $ cd Sawayo/
 $ npm install
 ```
-Before starting the bot, you need to create a file called "config.json".
+Before starting the bot, you need to create a file called "config.json" under the root directory of the project.
 ## Sample config.conf
 	{
     "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7X", //Of course, this is not a real token.
