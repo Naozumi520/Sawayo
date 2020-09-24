@@ -2,7 +2,7 @@
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
 
-## Set-up
+## Set-up & Preparation
 Clone the git project:
 ```bash
 $ git clone https://github.com/Naozumi520/Sawayo.git
