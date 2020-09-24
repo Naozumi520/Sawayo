@@ -1,4 +1,4 @@
-# Sawayo
+zx# Sawayo
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
 
@@ -28,7 +28,7 @@ Once the Preparation is done, the project directory should look like the followi
     - commands4.js
   + files
     +images
-    -Sawayo_banner.png
+     -Sawayo_banner.png
   + node_modules
     -modules
   - index.js
