@@ -1,4 +1,4 @@
-zx# Sawayo
+# Sawayo
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
 
