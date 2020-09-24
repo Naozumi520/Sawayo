@@ -27,10 +27,10 @@ Once the Preparation is done, the project directory should look like the followi
     - commands3.js
     - commands4.js
   + files
-    +images
-     -Sawayo_banner.png
+    + images
+     - Sawayo_banner.png
   + node_modules
-    -modules
+    - modules
   - index.js
   - package.json 
   - config.json
