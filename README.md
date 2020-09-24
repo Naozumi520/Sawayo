@@ -13,7 +13,7 @@ $ npm install
 ```
 Before starting the bot, you need to create a file called "config.json".
 
-## sample config.conf
+## Sample config.conf
 	{
     "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7X", //Of course, this is not a real token.
     "prefix" : "s!"  //The bot prefix
