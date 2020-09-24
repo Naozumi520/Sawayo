@@ -18,10 +18,30 @@ Before starting the bot, you need to create a file called "config.json" under th
     "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7X", //Of course, this is not a real token.
     "prefix" : "s!"  //The bot prefix
 	}
+Once the Preparation is done, the project directory should look like the following:
+```
++ Sawayo
+  + commands
+    - commands1.js
+    - commands2.js
+    - commands3.js
+    - commands4.js
+  + files
+    +images
+    -Sawayo_banner.png
+  + node_modules
+    -modules
+  - index.js
+  - package.json 
+  - config.json
+```
 
 To start the bot:
 ```bash
 $ node index
 ```
+
+## Contributors
+This repository was constructed by [cool.xaml](https://github.com/JammieLannie).
 
 ![picture](files/images/Sawayo_banner.png)
