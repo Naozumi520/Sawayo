@@ -34,6 +34,7 @@ Once the preparation is done, the project directory should look like the followi
   - index.js
   - package.json 
   - config.json
+  - activities_list
 ```
 
 To start the bot:
