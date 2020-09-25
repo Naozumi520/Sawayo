@@ -17,7 +17,6 @@ module.exports.run = async (client, message) => {
     }
 
 
-    
     module.exports.config = {
         name: "osustats",
         description: 'generate osu playercard images using osustatus.click',
