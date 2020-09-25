@@ -17,14 +17,15 @@ Before starting the bot, you need to create a file called "config.json" under th
 	{
          "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7XOf course, this is not a real token.", 
          "prefix" : "s!" 
+	 
+         "activities": [
+             { "type": "PLAYING", "text": "osu!" },
+             { "type": "LISTENING", "text": "osu!memories 2" },
+             { "type": "PLAYING", "text": "circles" }
+             ],
+            "Interval" : "50000" 
 	}
 
-    "activities": [
-        { "type": "PLAYING", "text": "osu!" },
-        { "type": "LISTENING", "text": "osu!memories 2" },
-        { "type": "PLAYING", "text": "circles" }
-        ],
-        "Interval" : "50000" 
 Once the preparation is done, the project directory should look like the following:
 ```
 + Sawayo
