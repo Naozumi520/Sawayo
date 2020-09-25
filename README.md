@@ -21,7 +21,7 @@ Before starting the bot, you need to create a file called "config.json" under th
          "activities": [
              { "type": "PLAYING", "text": "osu!" },
              { "type": "LISTENING", "text": "osu!memories 2" },
-             { "type": "PLAYING", "text": "circles" }
+             { "type": "PLAYING", "text": "with circles" }
              ],
             "Interval" : "50000" 
 	}
