@@ -8,14 +8,13 @@ const config = require('../config.json');
 module.exports.run = async (client, message) => {
     const args = message.content.split(" ").slice(1);
       let user = args.join(" ");
-      const au = await osu.getUser({u: user}).then(() => {
+      const au = await osu.getUser({u: user})
 
       const embed = new Discord.MessageEmbed()
       .setColor('#2f3136')
       .setImage(`https://osustats.click/playercard/${au.id}.png`)
       message.channel.send(embed)
-    })
-  }
+    }
 
 
     module.exports.config = {
