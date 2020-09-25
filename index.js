@@ -2,7 +2,6 @@ const path = require('path')
 const fs = require('fs')
 const Discord = require('discord.js')
 const client = new Discord.Client()
-const activity_list = require("./activities_list.json")
 const config = require('./config.json')
 
 client.on('ready', async () => {
@@ -11,10 +10,10 @@ client.on('ready', async () => {
 })
 
 client.setInterval(() => {
-    const activity = activity_list.activities[Math.floor(Math.random() * activity_list.activities.length)];
+    const activity = config.activities[Math.floor(Math.random() * config.activities.length)];
     const text = typeof activity.text === 'function' ? activity.text() : activity.text;
     client.user.setActivity(text, { type: activity.type });
-}, activity_list.Interval)
+}, config.Interval)
 
 
 client.commands = new Discord.Collection();
