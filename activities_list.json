@@ -1,8 +1,8 @@
 {
     "activities": [
-    { "type":"PLAYING", "text":"osu!" },
-    { "type":"LISTENING", "text":"osu!memories 2" },
-    { "type":"PLAYING", "text":"circles" }
+    { "type": "PLAYING", "text": "osu!" },
+    { "type": "LISTENING", "text": "osu!memories 2" },
+    { "type": "PLAYING", "text": "circles" }
     ],
     "Interval" : "10000"  
 }
