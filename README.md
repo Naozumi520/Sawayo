@@ -12,12 +12,20 @@ This project uses node and npm. Use the following command if you don't have them
 $ cd Sawayo/
 $ npm install
 ```
-Before starting the bot, you need to create a file called "config.json" under the root directory of the project.
+Before starting the bot, you will need to create a file called "config.json" under the root directory of the project.
 ## Sample config.json
 	{
          "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7XOf course, this is not a real token.", 
          "prefix" : "s!" 
+	 
+         "activities": [
+             { "type": "PLAYING", "text": "osu!" },
+             { "type": "LISTENING", "text": "osu!memories 2" },
+             { "type": "PLAYING", "text": "with circles" }
+             ],
+            "Interval" : "50000" 
 	}
+
 Once the preparation is done, the project directory should look like the following:
 ```
 + Sawayo
@@ -34,7 +42,6 @@ Once the preparation is done, the project directory should look like the followi
   - index.js
   - package.json 
   - config.json
-  - activities_list
 ```
 
 To start the bot:
