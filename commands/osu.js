@@ -18,8 +18,8 @@ module.exports.run = async (client, message) => {
       .setThumbnail(`http://s.ppy.sh/a/${au.id}`)
       .setURL(au.profileURL)
       .setDescription(`**Offical Rank:** #${au.pp.rank} (${au.country}#${au.pp.countryRank})\r\n**Level:** ${Math.round(au.level * 100) / 100}\r\n**Total PP:** ${au.pp.raw}\r\n**Accuracy:** ${Math.round(au.accuracy * 100) / 100 + '%'}\r\n**Playcount:** ${au.counts.plays}\r\n**Score**:\n- Ranked: ${au.scores.ranked}\n- Total: ${au.scores.total}`)
-        .addField("Score count:", `<:XH_Rank:709759217166319658> ${au.counts.SSH}\n<:X_Rank:709759217195548683> ${au.counts.SS}\n<:SH_Rank:709759217568841769> ${au.counts.SH}\n<:S_Rank:709759217376034946> ${au.counts[`S`]}\n<:A_Rank:709759217292017694> ${au.counts.A}`, true)
-        .addField("Hit count:", `<:h50:709764550332907540> ${au.counts[`50`]}\n<:h100:709764550362398761> ${au.counts[`100`]}\n<:h300:709764550626639964> ${au.counts[`300`]}`, true)
+        .addField("Score count:", `${config.SSH} ${au.counts.SSH}\n${config.SS}  ${au.counts.SS}\n${config.SH}  ${au.counts.SH}\n${config.S}  ${au.counts[`S`]}\n${config.A}  ${au.counts.A}`, true)
+        .addField("Hit count:", `${config.hit50}  ${au.counts[`50`]}\n${config.hit100}  ${au.counts[`100`]}\n${config.hit300} ${au.counts[`300`]}`, true)
       message.channel.send(embed)
     }
 
