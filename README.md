@@ -23,7 +23,15 @@ Before starting the bot, you will need to create a file called "config.json" und
              { "type": "LISTENING", "text": "osu!memories 2" },
              { "type": "PLAYING", "text": "with circles" }
              ],
-            "activities_Interval" : "50000" 
+            "activities_Interval" : "50000",
+    "SSH": "<:SSH:759435267383361536>",
+    "SS": "<:SS:759435267181510736>",
+    "SH": "<:SH:759435267357540382>",
+    "S": "<:S_:759435267316252693>",
+    "A": "<:A_:759435267404070922>",
+    "hit50": "<:h50:759435458555412480>" ,
+    "hit100": "<:h100:759435459671359558>",
+    "hit300": "<:h300:759435458584510544>"
 	}
 
 Once the preparation is done, the project directory should look like the following:
