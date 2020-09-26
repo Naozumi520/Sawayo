@@ -54,3 +54,5 @@ $ node index
 [![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)
 
 ![picture](files/images/Sawayo_banner.png)
+
+Feel free to contribute to this project.
