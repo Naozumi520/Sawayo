@@ -13,7 +13,7 @@ client.setInterval(() => {
     const activity = config.activities[Math.floor(Math.random() * config.activities.length)];
     const text = typeof activity.text === 'function' ? activity.text() : activity.text;
     client.user.setActivity(text, { type: activity.type });
-}, config.Interval)
+}, config.activities_Interval)
 
 
 client.commands = new Discord.Collection();
