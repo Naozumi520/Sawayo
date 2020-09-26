@@ -23,7 +23,7 @@ Before starting the bot, you will need to create a file called "config.json" und
              { "type": "LISTENING", "text": "osu!memories 2" },
              { "type": "PLAYING", "text": "with circles" }
              ],
-            "Interval" : "50000" 
+            "activities_Interval" : "50000" 
 	}
 
 Once the preparation is done, the project directory should look like the following:
