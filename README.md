@@ -17,7 +17,8 @@ You will also need to configure the emoji ID in emoji_config.json.
 ## Sample config.json
 	{
          "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7XOf course, this is not a real token.", 
-         "prefix" : "s!" 
+         "prefix" : "s!",
+	 "admin_role" : "759786408612986901",
 	 
          "activities": [
              { "type": "PLAYING", "text": "osu!" },
@@ -26,8 +27,9 @@ You will also need to configure the emoji ID in emoji_config.json.
              ],
             "activities_Interval" : "50000",
 	}
-## Sample config.json
+## Sample emoji_config.json
     {
+    "admin_role" : "754726868673946891",
     "SSH": "<:SSH:759435267383361536>",
     "SS": "<:SS:759435267181510736>",
     "SH": "<:SH:759435267357540382>",
