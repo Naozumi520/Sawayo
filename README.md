@@ -27,7 +27,7 @@ You will also need to configure the emoji ID in emoji_config.json.
             "activities_Interval" : "50000",
 	}
 ## Sample config.json
-{
+    {
     "SSH": "<:SSH:759435267383361536>",
     "SS": "<:SS:759435267181510736>",
     "SH": "<:SH:759435267357540382>",
@@ -36,7 +36,7 @@ You will also need to configure the emoji ID in emoji_config.json.
     "hit50": "<:h50:759435458555412480>" ,
     "hit100": "<:h100:759435459671359558>",
     "hit300": "<:h300:759435458584510544>"
-}
+    }
 
 Once the preparation is done, the project directory should look like the following:
 ```
