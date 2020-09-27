@@ -18,7 +18,7 @@ You will also need to configure the emoji ID in emoji_config.json.
 	{
          "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7XOf course, this is not a real token.", 
          "prefix" : "s!",
-	 "admin_role" : "754726868673946891",
+	   "admin_role" : "754726868673946891",
 	 
          "activities": [
              { "type": "PLAYING", "text": "osu!" },
