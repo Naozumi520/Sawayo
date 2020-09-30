@@ -65,10 +65,10 @@ $ node index
 ## Commands  
 User-profile:
 ```
- -std
- -taiko
- -ctb
- -mania
+ -std     --s!std <username>
+ -taiko     --s!taiko <username>
+ -ctb     --s!ctb <username>
+ -mania     --s!mania <username>
 ```
  
 
