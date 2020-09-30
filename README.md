@@ -71,7 +71,7 @@ $ node index
 
 ## Things need to do
 
-Database
+Database.
 Admin related stuff for Discord Server Moderations.
 
 Feel free to contribute to this project.
