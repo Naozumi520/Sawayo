@@ -62,7 +62,7 @@ To start the bot:
 ```bash
 $ node index
 ```
-##Commands
+##Commands  
  ###User-profile:
  -std
  -taiko
