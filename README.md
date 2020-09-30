@@ -62,6 +62,13 @@ To start the bot:
 ```bash
 $ node index
 ```
+##Commands
+ ###User-profile:
+ -std
+ -taiko
+ -ctb
+ -mania
+ 
 
 ## Contributors
 [![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)  
@@ -70,8 +77,8 @@ $ node index
 ![picture](files/images/Sawayo_banner.png)
 
 ## Things need to do
-Database.
-Admin related stuff for Discord Server Moderations.
 
+Database
+Admin related stuff for Discord Server Moderations.
 
 Feel free to contribute to this project.
