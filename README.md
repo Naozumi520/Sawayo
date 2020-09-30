@@ -63,11 +63,13 @@ To start the bot:
 $ node index
 ```
 ## Commands  
- ### User-profile:
+User-profile:
+```
  -std
  -taiko
  -ctb
  -mania
+```
  
 
 ## Contributors
