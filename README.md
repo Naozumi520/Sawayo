@@ -70,8 +70,8 @@ $ node index
 ![picture](files/images/Sawayo_banner.png)
 
 ## Things need to do
-
 Database.
 Admin related stuff for Discord Server Moderations.
+
 
 Feel free to contribute to this project.
