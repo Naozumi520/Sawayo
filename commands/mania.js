@@ -12,11 +12,10 @@ module.exports.run = async (client, message) => {
     var uname = au.name
     .replace('_', '\\_')
     const flagnam = au.country.toLowerCase()
+    const url = "http://s.ppy.sh/a/"
     const embed = new Discord.MessageEmbed()
     .setColor('#2f3136')
-    .setTitle(`:flag_${flagnam}:  osu!mania profile for ${uname}`)
-    .setThumbnail(`http://s.ppy.sh/a/${au.id}`)
-    .setURL(au.profileURL)
+    .setTitle(`:flag_${flagnam}:  osu!mania profile for ${[uname](url + au.id)})`)
     .setDescription(`**Offical Rank:** #${au.pp.rank} (${au.country}#${au.pp.countryRank})\r\n**Level:** ${Math.round(au.level * 100) / 100}\r\n**Total PP:** ${au.pp.raw}\r\n**Accuracy:** ${Math.round(au.accuracy * 100) / 100 + '%'}\r\n**Playcount:** ${au.counts.plays}\r\n**Score**:\n- Ranked: ${au.scores.ranked}\n- Total: ${au.scores.total}`)
         .addField("Rank count:", `${config.SSH} ${au.counts.SSH}\n${config.SS}  ${au.counts.SS}\n${config.SH}  ${au.counts.SH}\n${config.S}  ${au.counts[`S`]}\n${config.A}  ${au.counts.A}`, true)
         .addField("Hit count:", `${config.hit50}  ${au.counts[`50`]}\n${config.hit100}  ${au.counts[`100`]}\n${config.hit300} ${au.counts[`300`]}`, true)
