@@ -13,17 +13,23 @@ $ cd Sawayo/
 $ npm install
 ```
 Before starting the bot, you will need to create a file called "config.json" under the root directory of the project.
+You will also need to configure the emoji ID in emoji_config.json.
 ## Sample config.json
 	{
          "token" : "8ld6ZJcYNFyswDabQMfLjQ6iL8Zc2ls7UYkyUjHlvMdg7XOf course, this is not a real token.", 
-         "prefix" : "s!" 
+         "prefix" : "s!",
+	   "admin_role" : "754726868673946891",
 	 
          "activities": [
              { "type": "PLAYING", "text": "osu!" },
              { "type": "LISTENING", "text": "osu!memories 2" },
              { "type": "PLAYING", "text": "with circles" }
              ],
-            "activities_Interval" : "50000",
+            "activities_Interval" : "50000"
+	}
+## Sample emoji_config.json
+    {
+    "error": "<:error:759791498279125042>",
     "SSH": "<:SSH:759435267383361536>",
     "SS": "<:SS:759435267181510736>",
     "SH": "<:SH:759435267357540382>",
@@ -32,7 +38,7 @@ Before starting the bot, you will need to create a file called "config.json" und
     "hit50": "<:h50:759435458555412480>" ,
     "hit100": "<:h100:759435459671359558>",
     "hit300": "<:h300:759435458584510544>"
-	}
+    }
 
 Once the preparation is done, the project directory should look like the following:
 ```
@@ -56,11 +62,25 @@ To start the bot:
 ```bash
 $ node index
 ```
+## Commands  
+User-profile:
+```
+ -std     --s!std <username>
+ -taiko     --s!taiko <username>
+ -ctb     --s!ctb <username>
+ -mania     --s!mania <username>
+```
+ 
 
 ## Contributors
 [![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)  
 [![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)
 
 ![picture](files/images/Sawayo_banner.png)
+
+## Things need to do
+
+Database
+Admin related stuff for Discord Server Moderations.
 
 Feel free to contribute to this project.
