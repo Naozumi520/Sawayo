@@ -70,6 +70,17 @@ User-profile:
  -ctb     --s!ctb <username>
  -mania     --s!mania <username>
 ```
+Miscellaneous:
+```
+-urban     --s!urban <words>
+-google     --s!google <things>
+```
+Admin-commands
+```
+-mute     --s!mute <mentions_user> <milisecond>
+-ban     --s!ban <mentions_user> <reasons(Optional)>
+-kick     --s!kick <mentions_user> <reasons(Optional)>
+```
  
 
 ## Contributors
