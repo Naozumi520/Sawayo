@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const urban = require("urban");
 
-module.exports.run = async (bot, message, args) => {
+module.exports.run = async (client, message, args) => {
     if(args.length < 1) return message.reply("Please enter something!");
     let word = args.join(" "); 
 
@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
         var definition = json.definition;
         var length = 1024
         let urbEmbed = new Discord.MessageEmbed()
-        .setColor("00ff00")
+        .setColor("2f3136")
         .setTitle(json.word)
         .setDescription(definition.substring(0, length))
         .addField("Upvotes", json.thumbs_up, true)

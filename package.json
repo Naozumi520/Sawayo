@@ -4,10 +4,18 @@
   "description": "Sawayo, a discord bot for osu!   This is a repository of Sawayo bot.",
   "main": "index.js",
   "dependencies": {
+    "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
     "google": "^2.1.0",
+    "imageapi.js": "^1.0.17",
     "ms": "^2.1.2",
-    "node-osu": "^2.2.0"
+    "node-osu": "^2.2.0",
+    "simple-youtube-api": "^5.2.1",
+    "urban": "^0.3.2",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^3.3.0"
   },
   "devDependencies": {},
   "scripts": {
