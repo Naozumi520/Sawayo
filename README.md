@@ -25,7 +25,14 @@ You will also need to configure the emoji ID in emoji_config.json.
              { "type": "LISTENING", "text": "osu!memories 2" },
              { "type": "PLAYING", "text": "with circles" }
              ],
-            "activities_Interval" : "50000"
+              "activities_Interval" : "6000",
+
+    "reddit": [
+        { "username": "reddit_username" },
+        { "password": "reddit password" },
+        { "app_id": "reddit api app id" },
+        { "api_secret": "reddit api secret" }
+    ]
 	}
 ## Sample emoji_config.json
     {
