@@ -95,3 +95,6 @@ Database
 Admin related stuff for Discord Server Moderations.
 
 Feel free to contribute to this project.
+
+## Donate
+JammieLannie: https://paypal.me/jammielannie
