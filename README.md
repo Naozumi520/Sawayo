@@ -80,13 +80,13 @@ User-profile:
 Miscellaneous:
 ```
 -urban     --s!urban <words>
--google     --s!google <things>
+-google     --s!google <things> <- Not work, will fix it soon
 ```
 Admin-commands
 ```
--mute     --s!mute <mentions_user> <milisecond>
--ban     --s!ban <mentions_user> <reasons(Optional)>
--kick     --s!kick <mentions_user> <reasons(Optional)>
+-mute     --s!mute <mentions_user> <time (could be 1s,1m,1h, 10000(ms)>
+-ban     --s!ban <mention_user> <reasons(Optional)>
+-kick     --s!kick <mention_user> <reasons(Optional)>
 ```
  
 
@@ -97,10 +97,10 @@ Admin-commands
 ![picture](files/images/Sawayo_banner.png)
 
 ## Things need to do
-
+```
 Database
 Admin related stuff for Discord Server Moderations.
-
+```
 Feel free to contribute to this project.
 
 ## Donate
