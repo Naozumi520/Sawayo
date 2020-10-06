@@ -11,6 +11,7 @@ This bot is built on [`discord.js v12`](https://discord.js.org/#/docs/main/v12/g
 
 **Project-info**
 - [Bot-commands](https://github.com/Naozumi520/Sawayo#commands)
+- [Using-api](https://github.com/Naozumi520/Sawayo#using-api)
 - [Contributors](https://github.com/Naozumi520/Sawayo#contributors)
 - [Our discord](https://github.com/Naozumi520/Sawayo#our-discord)
 - [To-do](https://github.com/Naozumi520/Sawayo#things-need-to-do)
