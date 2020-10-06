@@ -110,8 +110,8 @@ Admin-commands
 ![picture](files/images/Sawayo_banner.png)
 
 ## Our discord
-- Naozumi#9929
-- dragon.xml#1234
+- [Naozumi#9929](https://discord.com/users/752146392553881660)
+- [dragon.xml#1234](https://discord.com/users/468069720105680896)
 
 ## Things need to do
 ```
