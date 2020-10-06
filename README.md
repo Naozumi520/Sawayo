@@ -106,7 +106,7 @@ Admin-commands
 
 ![picture](files/images/Sawayo_banner.png)
 
-##Our discord
+## Our discord
 - Naozumi#9929
 - dragon.xml#1234
 
