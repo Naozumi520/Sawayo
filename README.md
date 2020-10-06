@@ -1,6 +1,8 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)
+
 
 # Sawayo
+[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)
+
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
 
