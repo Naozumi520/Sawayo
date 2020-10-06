@@ -7,7 +7,7 @@ This bot is built on [`discord.js v12`]**(https://discord.js.org/#/docs/main/v12
 
 ##Index
 **Setup**
-- [Our discord](https://github.com/OwenCalvin/discord.ts#%EF%B8%8F-need-help-)
+- [Our discord](https://github.com/Naozumi520/Sawayo/blob/master/README.md#our-discord)
 - [Set-up & Preparation](https://github.com/OwenCalvin/discord.ts#-installation)
 - [Setup](https://github.com/OwenCalvin/discord.ts#setup-and-start-your-application)
 
