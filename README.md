@@ -2,6 +2,16 @@
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
 
+## Introduction
+This bot is built on **[`discord.js v12`](https://discord.js.org/#/docs/main/v12/general/welcome)
+
+##Index
+**Setup**
+- [Our discord](https://github.com/OwenCalvin/discord.ts#%EF%B8%8F-need-help-)
+- [Set-up & Preparation](https://github.com/OwenCalvin/discord.ts#-installation)
+- [Setup](https://github.com/OwenCalvin/discord.ts#setup-and-start-your-application)
+
+
 ## Set-up & Preparation
 Clone the git project:
 ```bash
@@ -72,15 +82,15 @@ $ node index
 ## Commands  
 User-profile:
 ```
- -std     --s!std <username>
- -taiko     --s!taiko <username>
- -ctb     --s!ctb <username>
- -mania     --s!mania <username>
+ - std     --s!std <username>
+ - taiko     --s!taiko <username>
+ - ctb     --s!ctb <username>
+ - mania     --s!mania <username>
 ```
 Miscellaneous:
 ```
--urban     --s!urban <words>
--google     --s!google <things> <- Not work, will fix it soon
+- urban     --s!urban <words>
+- google     --s!google <things> <- Not work, will fix it soon
 ```
 Admin-commands
 ```
@@ -95,6 +105,10 @@ Admin-commands
 [![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)
 
 ![picture](files/images/Sawayo_banner.png)
+
+##Our discord
+- Naozumi#9929
+- dragon.xml#1234
 
 ## Things need to do
 ```
