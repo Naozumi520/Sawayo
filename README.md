@@ -5,7 +5,7 @@ This is a repository of Sawayo bot.
 ## Introduction
 This bot is built on [`discord.js v12`](https://discord.js.org/#/docs/main/v12/general/welcome)
 
-##Index
+## Index
 **Setup**
 - [Our discord](https://github.com/Naozumi520/Sawayo/blob/master/README.md#our-discord)
 - [Set-up & Preparation](https://github.com/Naozumi520/Sawayo/blob/master/README.md#set-up--preparation)
