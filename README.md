@@ -86,9 +86,9 @@ $ node index
 ```
 
 ## Using api
-- [imageapi.js](https://www.npmjs.com/package/imageapi.js)(^1.0.17)
-- [node-osu](https://www.npmjs.com/package/node-osu)(^2.2.0)
-- [urban](https://www.npmjs.com/package/urban)(^1.0.17)
+- [imageapi.js](https://www.npmjs.com/package/imageapi.js) (^1.0.17)
+- [node-osu](https://www.npmjs.com/package/node-osu) (^2.2.0)
+- [urban](https://www.npmjs.com/package/urban) (^1.0.17)
 
 ## Commands  
 User-profile:
