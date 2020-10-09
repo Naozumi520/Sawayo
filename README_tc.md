@@ -13,15 +13,15 @@ Sawayo, Discord的osu機器人！
 ## 索引
 
 **建立**
-- [設置與準備工作](https://github.com/Naozumi520/Sawayo#set-up--preparation)
+- [設置與準備工作](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md#設置與準備工作)
 
 **項目信息**
-- [g氣人命令](https://github.com/Naozumi520/Sawayo#commands)
-- [使用中的API](https://github.com/Naozumi520/Sawayo#using-api)
-- [貢獻者](https://github.com/Naozumi520/Sawayo#contributors)
-- [我們的discord](https://github.com/Naozumi520/Sawayo#our-discord)
-- [待辦事項清單](https://github.com/Naozumi520/Sawayo#things-need-to-do)
-- [抖內(Donate)](https://github.com/Naozumi520/Sawayo#donate)
+- [g氣人命令](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md#指令)
+- [使用中的API](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md#使用中的api)
+- [貢獻者](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md#貢獻者)
+- [我們的discord](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md#我們的discord)
+- [待辦事項清單](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md#要做的事情)
+- [抖內(Donate)](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md#抖內donate)
 
 ## 設置與準備工作
 克隆git項目：
