@@ -117,8 +117,8 @@ osu！玩家信息:
 ![picture](files/images/Sawayo_banner.png)
 
 ## 我們的discord
-- [Naozumi#9929](https://discord.com/users/752146392553881660)
-- [dragon.xml#1234](https://discord.com/users/468069720105680896)
+- [Naozumi#9929](https://discord.com/users/752146392553881660) (Naozumi)
+- [dragon.xml#1234](https://discord.com/users/468069720105680896) (JammieLannie)
 
 ## 要做的事情
 ```
