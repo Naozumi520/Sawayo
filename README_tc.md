@@ -8,7 +8,7 @@ Sawayo, Discord的osu機器人！
 這是Sawayo bot的存儲庫。
 
 ## 介紹
-先說一下因為沒有那麼多時間所以這裡大多數文字都用google翻譯D.  
+先說一下因為沒有那麼多時間所以這裡大多數文字都用google翻譯D.(g氣人是我寫的不是谷歌翻譯錯誤)
 這個g氣人用[`discord.js v12`](https://discord.js.org/#/docs/main/v12/general/welcome)建造, 具有諸如檢查osu！玩家信息之類的命令或更多命令。
 ## 索引
 
