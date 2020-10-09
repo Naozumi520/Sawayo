@@ -2,6 +2,7 @@
 
 # Sawayo
 [![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)
+Translations: [Traditional Chinese 繁體中文](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md)
 
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
