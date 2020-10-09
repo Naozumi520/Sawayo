@@ -9,6 +9,7 @@
     "ffmpeg": "0.0.4",
     "fluent-ffmpeg": "^2.1.2",
     "google": "^2.1.0",
+    "got": "^11.7.0",
     "imageapi.js": "^1.0.17",
     "ms": "^2.1.2",
     "node-osu": "^2.2.0",

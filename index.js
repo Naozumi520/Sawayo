@@ -42,4 +42,5 @@ client.on("message", async message => {
     if(commandFile) commandFile.run(client, message, args)
 })
 
+
 client.login(config.token)
