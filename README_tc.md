@@ -129,3 +129,4 @@ osu！玩家信息:
 
 ## 抖內Donate
 JammieLannie: https://paypal.me/jammielannie
+Naozumi: U guys happy then i'll be happy.
