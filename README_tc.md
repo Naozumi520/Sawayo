@@ -1,7 +1,8 @@
 
 
 # Sawayo
-[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)
+[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)  
+Language: [English](https://github.com/Naozumi520/Sawayo)
 
 Sawayo, Discord的osu機器人！
 這是Sawayo bot的存儲庫。
