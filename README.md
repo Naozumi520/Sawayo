@@ -36,7 +36,7 @@ Before starting the bot, you will need to create a file called "config.json" und
 You will also need to configure the emoji ID in emoji_config.json.
 ## Sample config.json
 	{
-         "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X", 
+         "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X",
 	 "osu_token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X",
          "prefix" : "s!",
 	   "admin_role" : "754726868673946891",
