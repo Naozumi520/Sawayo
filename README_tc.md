@@ -1,7 +1,7 @@
 
 
 # Sawayo
-[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)  
+[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)<br/>
 Language: [English](https://github.com/Naozumi520/Sawayo)
 
 
@@ -102,7 +102,7 @@ $ node index
 - [node-osu](https://www.npmjs.com/package/node-osu) (^2.2.0)
 - [urban](https://www.npmjs.com/package/urban) (^1.0.17)
 
-## 指令  
+## 指令
 osu！玩家信息:
 ```
  - osuset     --s!osuset <username>
