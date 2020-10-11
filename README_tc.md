@@ -5,8 +5,8 @@
 Language: [English](https://github.com/Naozumi520/Sawayo)
 
 
-Sawayo, Discord的osu機器人！
-這是Sawayo bot的存儲庫。
+Sawayo, Discord的osu機器人！<br/>
+這是Sawayo bot的存儲庫。<br/>
 該機器人仍在開發中，需要更多時間進行開發。
 
 ## 介紹
@@ -57,7 +57,7 @@ $ npm install
         "password": "",
         "database": "sawayo",
         "connectionLimit": 50
-    }
+      }
 	}
 ## emoji_config.json 樣例
     {

@@ -56,7 +56,7 @@ You will also need to configure the emoji ID in emoji_config.json.
         "password": "",
         "database": "sawayo",
         "connectionLimit": 50
-    }
+      }
 	}
 ## Sample emoji_config.json
     {
