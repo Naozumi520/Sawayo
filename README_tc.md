@@ -10,7 +10,7 @@ Sawayo, Discord的osu機器人！<br/>
 該機器人仍在開發中，需要更多時間進行開發。
 
 ## 介紹
-先說一下因為沒有那麼多時間所以這裡大多數文字都用google翻譯滴.  
+先說一下因為沒有那麼多時間所以這裡大多數文字都用google翻譯滴.<br/>
 這個g氣人用[`discord.js v12`](https://discord.js.org/#/docs/main/v12/general/welcome)建造, 具有諸如檢查osu！玩家信息之類的命令或更多命令。
 ## 索引
 
@@ -39,7 +39,7 @@ $ npm install
 您還需要在"emoji_config.json"中配置表情符號ID。
 ## config.json 樣例
 	{
-         "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X", 
+         "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X",
          "apikey": "DkyUjHldyU6RFyNotarealtokenswDalkyUdyU6Y",
          "prefix" : "s!",
 	       "admin_role" : "754726868673946891",
@@ -67,7 +67,7 @@ $ npm install
     "SH": "<:SH:759435267357540382>",
     "S": "<:S_:759435267316252693>",
     "A": "<:A_:759435267404070922>",
-    "hit50": "<:h50:759435458555412480>" ,
+    "hit50": "<:h50:759435458555412480>",
     "hit100": "<:h100:759435459671359558>",
     "hit300": "<:h300:759435458584510544>"
     }
@@ -88,7 +88,7 @@ $ npm install
   + node_modules
     - modules
   - index.js
-  - package.json 
+  - package.json
   - config.json
 ```
 
@@ -122,11 +122,11 @@ osu！玩家信息:
 -ban     --s!ban <mention_user> <reasons(Optional)>
 -kick     --s!kick <mention_user> <reasons(Optional)>
 ```
- 
+
 
 ## 貢獻者
-[![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)  
-[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)   
+[![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)<br/>
+[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)<br/>
 [![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
 ![picture](files/images/Sawayo_banner1.png)
