@@ -1,7 +1,7 @@
 # Sawayo
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/975632fdde704e4d8dba5a2be84a02aa)](https://app.codacy.com/gh/JammieLannie/Sawayo?utm_source=github.com&utm_medium=referral&utm_content=JammieLannie/Sawayo&utm_campaign=Badge_Grade)
-[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)  
+[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)
 Translations: [Traditional Chinese 繁體中文](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md)
 
 
@@ -66,7 +66,7 @@ You will also need to configure the emoji ID in emoji_config.json.
     "SH": "<:SH:759435267357540382>",
     "S": "<:S_:759435267316252693>",
     "A": "<:A_:759435267404070922>",
-    "hit50": "<:h50:759435458555412480>" ,
+    "hit50": "<:h50:759435458555412480>",
     "hit100": "<:h100:759435459671359558>",
     "hit300": "<:h300:759435458584510544>"
     }
@@ -87,7 +87,7 @@ Once the preparation is done, the project directory should look like the followi
   + node_modules
     - modules
   - index.js
-  - package.json 
+  - package.json
   - config.json
 ```
 
@@ -101,7 +101,7 @@ $ node index
 - [node-osu](https://www.npmjs.com/package/node-osu) (^2.2.0)
 - [urban](https://www.npmjs.com/package/urban) (^1.0.17)
 
-## Commands  
+## Commands
 User-profile:
 ```
  - osuset     --s!osuset <username>
@@ -121,11 +121,11 @@ Admin-commands
 -ban     --s!ban <mention_user> <reasons(Optional)>
 -kick     --s!kick <mention_user> <reasons(Optional)>
 ```
- 
+
 
 ## Contributors
-[![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)  
-[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)   
+[![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)<br/>
+[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)<br/>
 [![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
 ![picture](files/images/Sawayo_banner1.png)
@@ -140,7 +140,7 @@ Admin-commands
 More Commands.
 Admin related stuff for Discord Server Moderations.
 ```
-Feel free to contribute to this project.   
+Feel free to contribute to this project.
 
 ## Donate
 JammieLannie: https://paypal.me/jammielannie
