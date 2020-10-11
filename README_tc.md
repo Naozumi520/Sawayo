@@ -1,6 +1,8 @@
 
 
 # Sawayo
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/975632fdde704e4d8dba5a2be84a02aa)](https://app.codacy.com/gh/JammieLannie/Sawayo?utm_source=github.com&utm_medium=referral&utm_content=JammieLannie/Sawayo&utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)<br/>
 Language: [English](https://github.com/Naozumi520/Sawayo)
 
