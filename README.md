@@ -1,12 +1,13 @@
 # Sawayo
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/975632fdde704e4d8dba5a2be84a02aa)](https://app.codacy.com/gh/JammieLannie/Sawayo?utm_source=github.com&utm_medium=referral&utm_content=JammieLannie/Sawayo&utm_campaign=Badge_Grade)
-[![CodeFactor](https://www.codefactor.io/repository/github/jammielannie/sawayo/badge)](https://www.codefactor.io/repository/github/jammielannie/sawayo)
+[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)  
+Translations: [Traditional Chinese 繁體中文](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md)
 
 
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.   
-The bot is still in development, will need more time for the project
+The bot is still in development, will need more time for the project.
 
 ## Introduction
 This bot is built on [`discord.js v12`](https://discord.js.org/#/docs/main/v12/general/welcome), commands like check osu!osu info or more.
@@ -38,15 +39,24 @@ You will also need to configure the emoji ID in emoji_config.json.
 ## Sample config.json
 	{
          "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X", 
+         "apikey": "DkyUjHldyU6RFyNotarealtokenswDalkyUdyU6Y",
          "prefix" : "s!",
-	   "admin_role" : "754726868673946891",
+	       "admin_role" : "754726868673946891",
 	 
          "activities": [
              { "type": "PLAYING", "text": "osu!" },
              { "type": "LISTENING", "text": "osu!memories 2" },
              { "type": "PLAYING", "text": "with circles" }
              ],
-              "activities_Interval" : "6000"
+              "activities_Interval" : "6000",
+              
+    "database": {
+        "host": "localhost",
+        "username": "root",
+        "password": "",
+        "database": "sawayo",
+        "connectionLimit": 50
+    }
 	}
 ## Sample emoji_config.json
     {
@@ -72,6 +82,8 @@ Once the preparation is done, the project directory should look like the followi
   + files
     + images
      - Sawayo_banner.png
+  + lib
+    -database.js
   + node_modules
     - modules
   - index.js
@@ -92,6 +104,7 @@ $ node index
 ## Commands  
 User-profile:
 ```
+ - osuset     --s!osuset <username>
  - std     --s!std <username>
  - taiko     --s!taiko <username>
  - ctb     --s!ctb <username>
@@ -124,8 +137,8 @@ Admin-commands
 
 ## Things need to do
 ```
-Admin related stuff for Discord Server Moderations.
 More Commands.
+Admin related stuff for Discord Server Moderations.
 ```
 Feel free to contribute to this project.   
 

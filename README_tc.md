@@ -4,8 +4,10 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)  
 Language: [English](https://github.com/Naozumi520/Sawayo)
 
+
 Sawayo, Discord的osu機器人！
 這是Sawayo bot的存儲庫。
+該機器人仍在開發中，需要更多時間進行開發。
 
 ## 介紹
 先說一下因為沒有那麼多時間所以這裡大多數文字都用google翻譯滴.  
@@ -35,20 +37,29 @@ $ npm install
 ```
 啟動g氣人之前，您需要在項目的根目錄下創建一個名為"config.json"的文件。
 您還需要在"emoji_config.json"中配置表情符號ID。
-## 樣例config.json
+## config.json 樣例
 	{
          "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X", 
+         "apikey": "DkyUjHldyU6RFyNotarealtokenswDalkyUdyU6Y",
          "prefix" : "s!",
-	   "admin_role" : "754726868673946891",
+	       "admin_role" : "754726868673946891",
 	 
          "activities": [
              { "type": "PLAYING", "text": "osu!" },
              { "type": "LISTENING", "text": "osu!memories 2" },
              { "type": "PLAYING", "text": "with circles" }
              ],
-              "activities_Interval" : "6000"
+              "activities_Interval" : "6000",
+              
+    "database": {
+        "host": "localhost",
+        "username": "root",
+        "password": "",
+        "database": "sawayo",
+        "connectionLimit": 50
+    }
 	}
-## 樣例emoji_config.json
+## emoji_config.json 樣例
     {
     "error": "<:error:759791498279125042>",
     "SSH": "<:SSH:759435267383361536>",
@@ -72,6 +83,8 @@ $ npm install
   + files
     + images
      - Sawayo_banner.png
+  + lib
+    -database.js
   + node_modules
     - modules
   - index.js
@@ -92,6 +105,7 @@ $ node index
 ## 指令  
 osu！玩家信息:
 ```
+ - osuset     --s!osuset <username>
  - std     --s!std <username>
  - taiko     --s!taiko <username>
  - ctb     --s!ctb <username>
@@ -112,21 +126,22 @@ osu！玩家信息:
 
 ## 貢獻者
 [![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)  
-[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)
+[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)   
+[![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
 ![picture](files/images/Sawayo_banner.png)
 
 ## 我們的discord
-- [Naozumi#9929](https://discord.com/users/752146392553881660) (Naozumi)
-- [dragon.xml#1234](https://discord.com/users/468069720105680896) (JammieLannie)
+- [Naozumi#9929](https://discord.com/users/752146392553881660)
+- [dragon.xml#1234](https://discord.com/users/468069720105680896)
+- [TheLT#0157](http://discord.com/users/388345263191752704)
 
 ## 要做的事情
 ```
-數據庫
+更多命令。
 與Discord Server審核相關的管理相關內容。
 ```
 歡迎為這個項目做貢獻。
 
 ## 抖內Donate
-JammieLannie: https://paypal.me/jammielannie.<br/>
-Naozumi: OwO
+JammieLannie: https://paypal.me/jammielannie.
