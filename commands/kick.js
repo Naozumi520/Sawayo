@@ -4,7 +4,7 @@ const config = require("../config.json");
 module.exports.run = async (client, message, args) => {
     let member = message.mentions.members.first() || member.guild.member.cache.get(args[0]);
     if(!message.member.hasPermission("KICK_MEMBER")){
-        message.channel.send('You DO NOT have permission to use this `command.');
+        message.channel.send('You DO NOT have permission to use this command.');
     }
     else{
         if (!member)

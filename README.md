@@ -1,11 +1,12 @@
-
-
 # Sawayo
-[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)  
-Translations: [Traditional Chinese 繁體中文](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/975632fdde704e4d8dba5a2be84a02aa)](https://app.codacy.com/gh/JammieLannie/Sawayo?utm_source=github.com&utm_medium=referral&utm_content=JammieLannie/Sawayo&utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/jammielannie/sawayo/badge)](https://www.codefactor.io/repository/github/jammielannie/sawayo)
+
 
 Sawayo, a discord bot for osu!  
-This is a repository of Sawayo bot.
+This is a repository of Sawayo bot.   
+The bot is still in development, will need more time for the project
 
 ## Introduction
 This bot is built on [`discord.js v12`](https://discord.js.org/#/docs/main/v12/general/welcome), commands like check osu!osu info or more.
@@ -36,10 +37,9 @@ Before starting the bot, you will need to create a file called "config.json" und
 You will also need to configure the emoji ID in emoji_config.json.
 ## Sample config.json
 	{
-         "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X",
-	     "osu_token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X",
+         "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X", 
          "prefix" : "s!",
-	     "admin_role" : "754726868673946891",
+	   "admin_role" : "754726868673946891",
 	 
          "activities": [
              { "type": "PLAYING", "text": "osu!" },
@@ -112,21 +112,22 @@ Admin-commands
 
 ## Contributors
 [![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)  
-[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)
+[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)   
+[![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
 ![picture](files/images/Sawayo_banner.png)
 
 ## Our discord
 - [Naozumi#9929](https://discord.com/users/752146392553881660)
 - [dragon.xml#1234](https://discord.com/users/468069720105680896)
+- [TheLT#0157](http://discord.com/users/388345263191752704)
 
 ## Things need to do
 ```
-Database
 Admin related stuff for Discord Server Moderations.
+More Commands.
 ```
-Feel free to contribute to this project.
+Feel free to contribute to this project.   
 
 ## Donate
-JammieLannie: https://paypal.me/jammielannie</br>
-Naozumi: OwO
+JammieLannie: https://paypal.me/jammielannie

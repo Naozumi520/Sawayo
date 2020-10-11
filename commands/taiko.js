@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
-const nodeosu = require('node-osu')
-const config = require('../config.json')
-const osu = new nodeosu.Api(config.osu_token, { //osu api key
+const nodeosu = require('node-osu');
+const config = require('./../config.json');
+const osu = new nodeosu.Api(config.apikey, { // Set your API Key in config.json
     resAsError: true // Reject on not found instead of returning nothing. (default: true)
   })
 const emo_config = require('../emoji_config.json');

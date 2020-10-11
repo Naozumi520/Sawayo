@@ -3,10 +3,14 @@ const fs = require('fs')
 const Discord = require('discord.js')
 const client = new Discord.Client()
 const config = require('./config.json')
+const con = require('./lib/database.js');
 
 client.on('ready', async () => {
-  console.log('\x1b[32m', `[Ready] Logged in as ${client.user.tag}! ID: ${client.user.id}`) //[Ready] Logged in as sawayo! ID: 754669799195279441
-  console.log('\x1b[33m', `Serving ${client.guilds.cache.size} servers.`) //Serving 0 servers.
+    console.log('\x1b[32m', `[Ready] Logged in as ${client.user.tag}! ID: ${client.user.id}`) //[Ready] Logged in as sawayo! ID: 754669799195279441
+    console.log('\x1b[33m', `Serving ${client.guilds.cache.size} servers.`) //Serving 0 servers.
+    con.getConnection(function(err, connection) {
+      console.log(err ? '[Database] Something went wrong while connecting to the database!' : '[Database] Connected to the database!');
+    })
 })
 
 client.setInterval(() => {
@@ -41,6 +45,5 @@ client.on("message", async message => {
     let commandFile = client.commands.find(c => c.triggers.includes(cmd.toLowerCase()));
     if(commandFile) commandFile.run(client, message, args)
 })
-
 
 client.login(config.token)
