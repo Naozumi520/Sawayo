@@ -1,7 +1,7 @@
 # Sawayo
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/975632fdde704e4d8dba5a2be84a02aa)](https://app.codacy.com/gh/JammieLannie/Sawayo?utm_source=github.com&utm_medium=referral&utm_content=JammieLannie/Sawayo&utm_campaign=Badge_Grade)
-[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)
+[![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)<br/>
 Translations: [Traditional Chinese 繁體中文](https://github.com/Naozumi520/Sawayo/blob/master/README_tc.md)
 
 
@@ -34,7 +34,7 @@ This project uses node and npm. Use the following command if you don't have them
 $ cd Sawayo/
 $ npm install
 ```
-Before starting the bot, you will need to create a file called "config.json" under the root directory of the project.
+Before starting the bot, you will need to create a file called "config.json" under the root directory of the project.</br>
 You will also need to configure the emoji ID in emoji_config.json.
 ## Sample config.json
 	{
