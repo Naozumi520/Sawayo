@@ -129,7 +129,7 @@ osu！玩家信息:
 [![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)   
 [![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
-![picture](files/images/Sawayo_banner.png)
+![picture](files/images/Sawayo_banner1.png)
 
 ## 我們的discord
 - [Naozumi#9929](https://discord.com/users/752146392553881660)
