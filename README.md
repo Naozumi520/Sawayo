@@ -6,7 +6,8 @@ Translations: [Traditional Chinese 繁體中文](https://github.com/Naozumi520/S
 
 
 Sawayo, a discord bot for osu!<br/>
-This is a repository of Sawayo bot.<br/>
+This is a dev personal repository of Sawayo bot.<br/>
+[Sawayo offical repository](https://github.com/TeamSawayo/Sawayo)<br/>
 The bot is still in development, will need more time for the project.
 
 ## Introduction
