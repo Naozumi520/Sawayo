@@ -8,7 +8,7 @@ Language: [English](https://github.com/Naozumi520/Sawayo)
 
 
 Sawayo, Discord的osu機器人！<br/>
-這是Sawayo bot的存儲庫。<br/>
+這是Sawayo bot的個人存儲庫。<br/>
 [Sawayo團隊存儲庫](https://github.com/TeamSawayo/Sawayo)<br/>
 [項目進度](https://github.com/Naozumi520/Sawayo/projects/1)<br/>
 該機器人仍在開發中，需要更多時間進行開發。
