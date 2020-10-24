@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const urban = require("urban");
-
+const config = require('../config.json');
 module.exports.run = async (client, message, args) => {
     if(args.length < 1) return message.reply("Please enter something!");
     let word = args.join(" "); 

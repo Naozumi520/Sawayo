@@ -3,10 +3,10 @@ const got = require('got');
 const { stringify } = require('querystring');
 const Discord = require("discord.js");
 
-module.exports.run = async (bot, msg, args) => {
-    if(args.length < 1) msg.channel.send('I need to know what to search...');
+module.exports.run = async (bot, message, args) => {
+    if(args.length < 1) message.channel.send('I need to know what to search...');
 
-    await msg.channel.send('<a:googling:426453223310622740> Googling....').then(msg => {msg.delete({timeout: 1})});
+    await message.channel.send('<a:googling:426453223310622740> Googling....').then(message => {message.delete({timeout: 1})});
 
     const params = {
         q: args.join(' '),
@@ -46,17 +46,17 @@ module.exports.run = async (bot, msg, args) => {
                 .setColor(bot.utils.randomColor())
                 .setURL(`https://google.com/search?q=${encodeURIComponent(params.q)}`);
         }
-        return await msg.channel.send(card);
+        return await message.channel.send(card);
     }
 
     if(results.length === 0) {
-        return await msg.channel.send("Sorry, I didn't found any results");
+        return await message.channel.send("Sorry, I didn't found any results");
     }
     
     const firstentry = `${results[0].link}`;
     const resultxD = results.slice(0, 1).map(r => `${r.link}`).join('\n');
 
-    await msg.channel.send(resultxD);
+    await message.channel.send(resultxD);
 
 };
 
