@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Naozumi520/Sawayo"><img src="https://cdn.discordapp.com/attachments/711125203186483203/773094395158724618/sa_avt_c.png" Style Guide" width="200"></a>
+  <a href="https://github.com/Naozumi520/Sawayo"><img src="https://cdn.discordapp.com/attachments/711125203186483203/773094395158724618/sa_avt_c.png" avtar_c_icon" width="200"></a>
   <br>
   Sawayo
   <br>
