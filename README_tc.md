@@ -1,6 +1,10 @@
-
-
-# Sawayo
+<h1 align="center">
+  <a href="https://github.com/Naozumi520/Sawayo"><img src="https://cdn.discordapp.com/attachments/711125203186483203/773094395158724618/sa_avt_c.png" Style Guide" width="200"></a>
+  <br>
+  Sawayo
+  <br>
+  <br>
+</h1>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/975632fdde704e4d8dba5a2be84a02aa)](https://app.codacy.com/gh/JammieLannie/Sawayo?utm_source=github.com&utm_medium=referral&utm_content=JammieLannie/Sawayo&utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/naozumi520/sawayo/badge)](https://www.codefactor.io/repository/github/naozumi520/sawayo)<br/>
@@ -40,6 +44,10 @@ $ git clone https://github.com/Naozumi520/Sawayo.git
 $ cd Sawayo/
 $ npm install
 ```
+<div align="center">
+<img src="/files/images/render1604402194195.gif" width="508" height="395">
+<p>模範gif</p>
+</div>
 啟動g氣人之前，您需要在項目的根目錄下創建一個名為"config.json"的文件。
 您還需要在"emoji_config.json"中配置表情符號ID。
 ## config.json 樣例
