@@ -44,6 +44,7 @@ $ cd Sawayo/
 $ npm install
 ```
 ![](./files/images/render1604402194195.gif =636x494)
+<img src="/files/images/render1604402194195.gif" alt="render1604402194195" style="width:696px;"/>
 Before starting the bot, you will need to create a file called "config.json" under the root directory of the project.<br/>
 You will also need to configure the emoji ID in emoji_config.json.
 ## Sample config.json
