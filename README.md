@@ -49,6 +49,7 @@ $ npm install
 </div>
 Before starting the bot, you will need to create a file called "config.json" under the root directory of the project.<br/>
 You will also need to configure the emoji ID in emoji_config.json.<br/>
+  
 ## Sample config.json
 	{
          "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X", 
