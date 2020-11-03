@@ -48,8 +48,8 @@ $ npm install
 <img src="/files/images/render1604402194195.gif" width="508" height="395">
 <p>模範gif</p>
 </div>
-啟動g氣人之前，您需要在項目的根目錄下創建一個名為"config.json"的文件。
-您還需要在"emoji_config.json"中配置表情符號ID。
+啟動g氣人之前，您需要在項目的根目錄下創建一個名為"config.json"的文件。<br/>
+您還需要在"emoji_config.json"中配置表情符號ID。<br/>
 ## config.json 樣例
 	{
          "token" : "8ld6ZJcDYNRFyswDaNotarealtokenls7UYkyUjHlGvMdg7X",
