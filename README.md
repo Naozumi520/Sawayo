@@ -43,12 +43,13 @@ This project uses node and npm. Use the following command if you don't have them
 $ cd Sawayo/
 $ npm install
 ```
-.halfsize {
+
+<div align="center">
+	.halfsize {
     -moz-transform:scale(0.5);
     -webkit-transform:scale(0.5);
     transform:scale(0.5);
 }
-<div align="center">
 <img class="halfsize" src="/files/images/render1604402194195.gif">
 <p>Example gif</p>
 </div>
