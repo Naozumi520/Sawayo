@@ -43,19 +43,8 @@ This project uses node and npm. Use the following command if you don't have them
 $ cd Sawayo/
 $ npm install
 ```
-div{
-   width: 200px;
-   height:200px;
-   border:solid
- }
-
-img{
-    width: 50%;
-    height: 50%;
-    object-fit: contain;
-    }
 <div align="center">
-<img src="/files/images/render1604402194195.gif">
+<img src="/files/images/render1604402194195.gif" style="height:80%;">
 <p>Example gif</p>
 </div>
 Before starting the bot, you will need to create a file called "config.json" under the root directory of the project.<br/>
