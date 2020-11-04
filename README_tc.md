@@ -45,7 +45,7 @@ $ cd Sawayo/
 $ npm install
 ```
 <div align="center">
-<img src="/files/images/render1604402194195.gif" width="508" height="395">
+<img src="/files/images/render1604402194195.gif" width="508" />
 <p>模範gif</p>
 </div>
 啟動g氣人之前，您需要在項目的根目錄下創建一個名為"config.json"的文件。<br/>
