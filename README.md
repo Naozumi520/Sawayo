@@ -45,12 +45,7 @@ $ npm install
 ```
 
 <div align="center">
-	.halfsize {
-    -moz-transform:scale(0.5);
-    -webkit-transform:scale(0.5);
-    transform:scale(0.5);
-}
-<img class="halfsize" src="/files/images/render1604402194195.gif">
+<img src="/files/images/render1604402194195.gif" "width="200">
 <p>Example gif</p>
 </div>
 Before starting the bot, you will need to create a file called "config.json" under the root directory of the project.<br/>
