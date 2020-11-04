@@ -110,6 +110,12 @@ To start the bot:
 $ node index
 ```
 
+```
+ - start.bat     --start bot windows batch file
+ - start - nodemon.bat     --start bot with nodemon batch file
+```
+
+
 ## Using api
 - [imageapi.js](https://www.npmjs.com/package/imageapi.js) (^1.0.17)
 - [node-osu](https://www.npmjs.com/package/node-osu) (^2.2.0)
