@@ -112,7 +112,7 @@ $ node index
 
 ```
  - start.bat     --start bot windows batch file
- - start - nodemon.bat     --start bot with nodemon batch file
+ - start-nodemon.bat     --start bot with nodemon batch file
 ```
 
 
