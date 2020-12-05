@@ -133,14 +133,14 @@ User-profile:
 ```
 Miscellaneous:
 ```
-- urban     --s!urban <words>
-- google     --s!google <things> <- Not work, will fix it soon
+ - urban     --s!urban <words>
+ - google     --s!google <things> <- Not work, will fix it soon
 ```
 Admin-commands
 ```
--mute     --s!mute <mentions_user> <time (could be 1s,1m,1h, 10000(ms))>
--ban     --s!ban <mention_user> <reasons(Optional)>
--kick     --s!kick <mention_user> <reasons(Optional)>
+ - mute     --s!mute <mentions_user> <time (could be 1s,1m,1h, 10000(ms))>
+ - ban     --s!ban <mention_user> <reasons(Optional)>
+ - kick     --s!kick <mention_user> <reasons(Optional)>
 ```
 
 
