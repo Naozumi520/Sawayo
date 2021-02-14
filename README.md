@@ -150,6 +150,7 @@ Admin-commands
 [![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
 ![picture](files/images/Sawayo_banner1.png)
+![picture](https://github.com/rlawoehd187/device_images/blob/main/IM-100.jpeg?raw=true)
 
 ## Our discord
 - [Naozumi#9929](https://discord.com/users/752146392553881660)
