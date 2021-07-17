@@ -98,7 +98,7 @@ Once the preparation is done, the project directory should look like the followi
     + images
      - Sawayo_banner.png
   + lib
-    -database.js
+    - database.js
   + node_modules
     - modules
   - index.js
