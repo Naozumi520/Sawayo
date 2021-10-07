@@ -144,7 +144,7 @@ Admin-commands
 
 
 ## Contributors
-[![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)<br/>
+[![](https://github.com/veeeleven.png?size=50)  veeeleven(v11)](https://github.com/veeeleven)<br/>
 [![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)<br/>
 [![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
@@ -152,7 +152,7 @@ Admin-commands
 
 ## Our discord
 - [Naozumi#9929](https://discord.com/users/752146392553881660)
-- [dragon.xml#1234](https://discord.com/users/468069720105680896)
+- [dragon.xml#1234](https://discord.com/users/718502139944632371)
 - [TheLT#0157](http://discord.com/users/388345263191752704)
 
 ## Things need to do
@@ -163,4 +163,4 @@ Admin related stuff for Discord Server Moderations.
 Feel free to contribute to this project.
 
 ## Donate
-JammieLannie: https://paypal.me/jammielannie
+v11: https://paypal.me/jammielannie
