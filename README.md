@@ -144,7 +144,7 @@ Admin-commands
 
 
 ## Contributors
-[![](https://github.com/veeeleven.png?size=50)  veeeleven(v11)](https://github.com/veeeleven)<br/>
+[![](https://github.com/veeeleven.png?size=50)  veeeleven (v11)](https://github.com/veeeleven)<br/>
 [![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)<br/>
 [![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
